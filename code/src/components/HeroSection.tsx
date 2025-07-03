@@ -36,7 +36,7 @@ const HeroSection = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed">
-            Senior Technical Lead delivering scalable, elegant 
+            Software Developer delivering scalable, elegant 
             <span className="gradient-text font-semibold"> web solutions</span> through thoughtful engineering.
           </p>
 
@@ -60,15 +60,15 @@ const HeroSection = () => {
 
           <div className="flex justify-center space-x-6 text-gray-400">
             <div className="text-center">
-              <div className="text-2xl font-bold text-white">9+</div>
+              <div className="text-2xl font-bold text-white">5+</div>
               <div className="text-sm">Years Experience</div>
             </div>
             <div className="text-center">
-              <div className="text-2xl font-bold text-white">25+</div>
+              <div className="text-2xl font-bold text-white">15+</div>
               <div className="text-sm">Projects Completed</div>
             </div>
             <div className="text-center">
-              <div className="text-2xl font-bold text-white">15+</div>
+              <div className="text-2xl font-bold text-white">10+</div>
               <div className="text-sm">Happy Clients</div>
             </div>
           </div>
