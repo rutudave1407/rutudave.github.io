@@ -18,8 +18,8 @@ I'm a Software Developer passionate about immersive technologies, creative codin
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/your-profile) *(Replace with actual link)*
-- [Twitter](https://twitter.com/yourhandle) *(Optional – remove if not used)*
-- [Portfolio Website](https://rutudave.dev)
+- [LinkedIn](https://linkedin.com/in/rutu-dave) *(Replace with actual link)*
+- [Twitter](https://twitter.com/#) *(Optional – remove if not used)*
+- [Portfolio Website](https://rutudave.github.io)
 
 Thanks for stopping by! 😊
