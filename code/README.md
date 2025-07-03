@@ -11,7 +11,7 @@ I'm a Software Developer passionate about immersive technologies, creative codin
 - 🌱 I’m learning: Unreal Engine (Blueprints), VFX Animation, shader creation, and advanced VR interaction toolkits.
 - 💬 Ask me about: Web development, Unreal game development, or building interactive digital prototypes.
 - 📫 How to reach me: rutudave1407@gmail.com
-- 🌐 Portfolio: [rutudave.dev](https://rutudave.dev) *(Update if needed)*
+- 🌐 Portfolio: [rutudave.github.io](https://rutudave.github.io) *(Update if needed)*
 - ⚡ Fun fact: I love designing surreal virtual spaces and often lose track of time tweaking lighting and terrain in Unity!
 
 ---
