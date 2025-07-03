@@ -13,7 +13,7 @@ const Footer = () => {
     },
     {
       icon: Linkedin,
-      href: "https://linkedin.com/in/rutu-dave",
+      href: "https://www.linkedin.com/in/rutu-dave-416734178/",
       label: "LinkedIn"
     }
   ];
@@ -29,7 +29,7 @@ const Footer = () => {
           {/* Brand */}
           <div>
             <h3 className="text-2xl font-bold gradient-text mb-2">Rutu Dave</h3>
-            <p className="text-gray-400">Senior Technical Lead & Web Developer</p>
+            <p className="text-gray-400">Software Developer</p>
           </div>
 
           {/* Social Links */}

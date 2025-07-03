@@ -47,7 +47,7 @@ const ContactSection = () => {
       icon: Linkedin,
       title: "LinkedIn",
       value: "Connect with me",
-      href: "https://linkedin.com/in/rutu-dave"
+      href: "https://www.linkedin.com/in/rutu-dave-416734178/"
     }
   ];
 

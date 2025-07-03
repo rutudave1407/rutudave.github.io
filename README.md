@@ -18,7 +18,7 @@ I'm a Software Developer passionate about immersive technologies, creative codin
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/your-profile) *(Replace with actual link)*
+- [LinkedIn](https://www.linkedin.com/in/rutu-dave-416734178/) *(Replace with actual link)*
 - [Twitter](https://twitter.com/yourhandle) *(Optional – remove if not used)*
 - [Portfolio Website](https://rutudave.dev)
 
